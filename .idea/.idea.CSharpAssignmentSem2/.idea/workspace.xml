@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="989dbdca-f62b-4ba8-ac5a-c3f9e1b84fc0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1563814133031" expanded="true" signature="28:821" ph="{...}" />
+                <marker date="1563814133031" expanded="true" signature="69:819" ph="{...}" />
+                <marker date="1563814133031" expanded="true" signature="238:420" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1563814132948" expanded="true" signature="42:682" ph="{...}" />
+                <marker date="1563814132948" expanded="true" signature="72:680" ph="{...}" />
+                <marker date="1563814132948" expanded="true" signature="208:368" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBTransaction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <marker date="1563814133045" expanded="true" signature="28:869" ph="{...}" />
+                <marker date="1563814133045" expanded="true" signature="62:867" ph="{...}" />
+                <marker date="1563814133045" expanded="true" signature="224:418" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/BlockchainAddressModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-544">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+              <folding>
+                <marker date="1563814424510" expanded="true" signature="6:64" ph="..." />
+                <marker date="1563814424510" expanded="true" signature="102:5784" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="144:5782" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="245:1182" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="712:1073" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="1220:1289" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="1549:5440" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="1742:5189" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="2199:2308" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="2387:2513" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="2573:2927" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="2669:2834" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="2985:3096" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="5023:5144" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="5221:5358" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="5531:5600" ph="{...}" />
+                <marker date="1563814424510" expanded="true" signature="5707:5776" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichBlockchain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1440">
+              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding>
+                <marker date="1563814424556" expanded="true" signature="6:150" ph="..." />
+                <marker date="1563814424556" expanded="true" signature="187:6342" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="236:6340" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="272:348" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="379:455" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="490:566" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="602:671" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="700:1547" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="1242:1457" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="1578:3090" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="1644:2948" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="1949:2101" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="2172:2721" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="2965:3080" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="3121:6334" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="3187:4497" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="3490:3648" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="3719:4270" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="4514:4629" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="4661:6324" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="4735:6162" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="5068:5245" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="5324:5919" ph="{...}" />
+                <marker date="1563814424556" expanded="true" signature="6183:6310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDich.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1563814424611" expanded="true" signature="35:167" ph="{...}" />
+                <marker date="1563814424611" expanded="true" signature="77:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1072">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <marker date="1563814424585" expanded="true" signature="6:72" ph="..." />
+                <marker date="1563814424585" expanded="true" signature="109:6108" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="177:6106" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="345:418" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="449:518" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="549:618" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="653:722" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="757:828" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="857:1659" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="1376:1591" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="1690:3089" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="1756:2947" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="2054:2206" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="2277:2826" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="2964:3079" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="3120:6100" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="3187:4383" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="3490:3642" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="3713:4262" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="4400:4515" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="4547:6090" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="4622:5928" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="4948:5125" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="5204:5799" ph="{...}" />
+                <marker date="1563814424585" expanded="true" signature="5949:6076" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/main/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="69" column="31" lean-forward="true" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+              <folding>
+                <marker date="1563814424638" expanded="true" signature="6:91" ph="..." />
+                <marker date="1563814424638" expanded="true" signature="128:3660" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="149:3507" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="253:1970" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="288:1960" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="977:1388" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="1491:1946" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="2068:3501" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="2103:3491" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="2789:3380" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="3414:3477" ph="{...}" />
+                <marker date="1563814424638" expanded="true" signature="3548:3658" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/ConnectionHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <marker date="1563814133023" expanded="true" signature="6:48" ph="..." />
+                <marker date="1563814133023" expanded="true" signature="79:1089" ph="{...}" />
+                <marker date="1563814133023" expanded="true" signature="115:1087" ph="{...}" />
+                <marker date="1563814133023" expanded="true" signature="432:811" ph="{...}" />
+                <marker date="1563814133023" expanded="true" signature="536:752" ph="{...}" />
+                <marker date="1563814133023" expanded="true" signature="865:1081" ph="{...}" />
+                <marker date="1563814133023" expanded="true" signature="969:1021" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/SHBAddressModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1003">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1563814424479" expanded="true" signature="6:64" ph="..." />
+                <marker date="1563814424479" expanded="true" signature="138:4884" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="238:1113" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="725:1014" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="800:999" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="1211:4878" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="1404:4609" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="1849:1958" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="2038:2181" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="2225:2560" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="2311:2477" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="2608:2709" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="4423:4563" ph="{...}" />
+                <marker date="1563814424479" expanded="true" signature="4641:4794" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDich.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichBlockchain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/main/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/BlockchainAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/SHBAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainAddress.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainTransaction.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBAccount.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBTransaction.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/entity/Student.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/model/StudentModel.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/controller/StudentController.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichBlockchain.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/main/Program.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/model/SHBAddressModel.cs" />
+        <option value="$PROJECT_DIR$/CSharpAssignmentSem2/model/BlockchainAddressModel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="902" />
+    <option name="width" value="948" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="demo" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="entity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="main" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CSharpAssignmentSem2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="989dbdca-f62b-4ba8-ac5a-c3f9e1b84fc0" name="Default Changelist" comment="" />
+      <created>1563813712652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563813712652</updated>
+      <workItem from="1563813713978" duration="713000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="713000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1488" height="878" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18614416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32894737" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs</url>
+          <line>34</line>
+          <properties documentPath="$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs" initialLine="34">
+            <startOffsets>
+              <option value="827" />
+            </startOffsets>
+            <endOffsets>
+              <option value="828" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/CSharpAssignmentSem2.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <marker date="1563814133055" expanded="true" signature="42:700" ph="{...}" />
+            <marker date="1563814133055" expanded="true" signature="79:698" ph="{...}" />
+            <marker date="1563814133055" expanded="true" signature="169:288" ph="{...}" />
+            <marker date="1563814133055" expanded="true" signature="623:692" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/BlockchainTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1563814133031" expanded="true" signature="28:821" ph="{...}" />
+            <marker date="1563814133031" expanded="true" signature="69:819" ph="{...}" />
+            <marker date="1563814133031" expanded="true" signature="238:420" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1563814132948" expanded="true" signature="42:682" ph="{...}" />
+            <marker date="1563814132948" expanded="true" signature="72:680" ph="{...}" />
+            <marker date="1563814132948" expanded="true" signature="208:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/StudentModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="94" column="11" selection-start-line="94" selection-start-column="11" selection-end-line="94" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/controller/StudentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/entity/SHBTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <marker date="1563814133045" expanded="true" signature="28:869" ph="{...}" />
+            <marker date="1563814133045" expanded="true" signature="62:867" ph="{...}" />
+            <marker date="1563814133045" expanded="true" signature="224:418" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichBlockchain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1440">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding>
+            <marker date="1563814424556" expanded="true" signature="6:150" ph="..." />
+            <marker date="1563814424556" expanded="true" signature="187:6342" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="236:6340" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="272:348" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="379:455" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="490:566" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="602:671" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="700:1547" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="1242:1457" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="1578:3090" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="1644:2948" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="1949:2101" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="2172:2721" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="2965:3080" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="3121:6334" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="3187:4497" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="3490:3648" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="3719:4270" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="4514:4629" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="4661:6324" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="4735:6162" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="5068:5245" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="5324:5919" ph="{...}" />
+            <marker date="1563814424556" expanded="true" signature="6183:6310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDich.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1563814424611" expanded="true" signature="35:167" ph="{...}" />
+            <marker date="1563814424611" expanded="true" signature="77:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/demo/GiaoDichSHB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1072">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <marker date="1563814424585" expanded="true" signature="6:72" ph="..." />
+            <marker date="1563814424585" expanded="true" signature="109:6108" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="177:6106" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="345:418" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="449:518" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="549:618" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="653:722" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="757:828" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="857:1659" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="1376:1591" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="1690:3089" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="1756:2947" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="2054:2206" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="2277:2826" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="2964:3079" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="3120:6100" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="3187:4383" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="3490:3642" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="3713:4262" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="4400:4515" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="4547:6090" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="4622:5928" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="4948:5125" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="5204:5799" ph="{...}" />
+            <marker date="1563814424585" expanded="true" signature="5949:6076" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/SHBAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1563814424479" expanded="true" signature="6:64" ph="..." />
+            <marker date="1563814424479" expanded="true" signature="138:4884" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="238:1113" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="725:1014" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="800:999" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="1211:4878" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="1404:4609" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="1849:1958" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="2038:2181" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="2225:2560" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="2311:2477" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="2608:2709" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="4423:4563" ph="{...}" />
+            <marker date="1563814424479" expanded="true" signature="4641:4794" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/main/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="69" column="31" lean-forward="true" selection-start-line="69" selection-start-column="31" selection-end-line="69" selection-end-column="31" />
+          <folding>
+            <marker date="1563814424638" expanded="true" signature="6:91" ph="..." />
+            <marker date="1563814424638" expanded="true" signature="128:3660" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="149:3507" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="253:1970" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="288:1960" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="977:1388" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="1491:1946" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="2068:3501" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="2103:3491" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="2789:3380" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="3414:3477" ph="{...}" />
+            <marker date="1563814424638" expanded="true" signature="3548:3658" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/BlockchainAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-544">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <marker date="1563814424510" expanded="true" signature="6:64" ph="..." />
+            <marker date="1563814424510" expanded="true" signature="102:5784" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="144:5782" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="245:1182" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="712:1073" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="1220:1289" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="1549:5440" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="1742:5189" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="2199:2308" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="2387:2513" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="2573:2927" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="2669:2834" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="2985:3096" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="5023:5144" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="5221:5358" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="5531:5600" ph="{...}" />
+            <marker date="1563814424510" expanded="true" signature="5707:5776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSharpAssignmentSem2/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <marker date="1563814133023" expanded="true" signature="6:48" ph="..." />
+            <marker date="1563814133023" expanded="true" signature="79:1089" ph="{...}" />
+            <marker date="1563814133023" expanded="true" signature="115:1087" ph="{...}" />
+            <marker date="1563814133023" expanded="true" signature="432:811" ph="{...}" />
+            <marker date="1563814133023" expanded="true" signature="536:752" ph="{...}" />
+            <marker date="1563814133023" expanded="true" signature="865:1081" ph="{...}" />
+            <marker date="1563814133023" expanded="true" signature="969:1021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
